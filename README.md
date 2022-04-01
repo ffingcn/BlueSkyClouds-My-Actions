@@ -76,7 +76,7 @@
 
 [手动同步 https://blog.blueskyclouds.com/jsfx/58.html](https://blog.blueskyclouds.com/jsfx/58.html)
 
-#### 自动同步
+#### 自动同步  
 
 ##### 方案A - 强制远程分支覆盖自己的分支
 1. 参考[这里](https://github.com/BlueskyClouds/My-Actions/blob/master/backUp/gitSync.md)，安装[pull插件](https://github.com/apps/pull)，并确认此项目已在pull插件的作用下（参考文中1-d）。
